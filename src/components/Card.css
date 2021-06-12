@@ -1,0 +1,48 @@
+.container{
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding-top: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background-color:lightskyblue;
+  height: 600px;
+
+}
+
+.profile {
+  display: flex;
+  float: left;
+} 
+
+.imgbrdr{
+  background: gray;
+  border-radius: 50%;
+  height: 80px;
+  width: 60px;  
+  text-align: center;  
+  padding: 5px;  
+  margin: 0px;
+  border: 3px solid grey;  
+}
+
+.circleImg{
+  max-width: 100%;  
+  height: auto;   
+}
+
+.name{
+  font-size: 30px;
+  padding: 20px;
+}
+
+.lorem{
+  font-size: 30px;
+  display: flex;
+  margin-left: 7%;
+  margin: 5%;
+}
+

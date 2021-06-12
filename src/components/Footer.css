@@ -1,0 +1,15 @@
+#foot {
+  position: fixed;
+  overflow: hidden;
+  align-items: left;
+  font-weight: 500;
+  font-size: 30px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+span {
+  margin-left: 20px;
+}
